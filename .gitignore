@@ -1,0 +1,8 @@
+# 项目排除路径
+/atguigu-spring/target/
+/spring6-aop/target/
+/spring6-ioc-annotation/target/
+/spring6-ioc-xml/target/
+/spring6-junit/target/
+/spring6-reflect/target/
+/spring-first/target/

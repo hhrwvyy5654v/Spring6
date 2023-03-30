@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="java internationalization" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;hhrwvyy5654v&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;hhrwvyy5654v&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b8abd220-8d44-4c65-81f5-774cf24a9515" />
+        <option name="url" value="https://github.com/hhrwvyy5654v/spring6.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/spring-jdbc-tx/src/main/java/com/atguigu/spring6/tx/service/BookServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring6-aop/src/main/java/com/atguigu/spring6/aop/annoaop/LogAspect.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/spring6-resources/src/main/java/com/atguigu/spring6/resourceloaderaware/TestDemo.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="2LUoMW0EtDcmsErN1dYO7BA5tbm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17.0.6",
+    "last_opened_file_path": "D:/Java_Workspace/项目/spring6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.22513089",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.splitter.proportion": "0.3337041",
+    "spring.configuration.checksum": "1711853ab8a2d8729075f25c0334dc38",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Workspace\项目\spring6\spring6-aop\src\main\java\com\atguigu\spring6\aop\xmlaop" />
+      <recent name="D:\Java_Workspace\项目\spring6" />
+      <recent name="D:\Java_Workspace\项目\spring6\spring6-ioc-annotation\src\main" />
+      <recent name="D:\Java_Workspace\项目\spring6\spring6-ioc-xml\src\main\resources" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.atguigu.spring6.iocxml.auto.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.spring6.aop.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.com.atguigu.spring6.javai18n.Resourcei18n">
+    <configuration name="Resourcei18n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.springi18n.Resourcei18n" />
+      <module name="spring6-i18n" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring6.springi18n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.prefix.TestDemo" />
+      <module name="spring6-resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring6.prefix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.atguigu.spring6.javai18n.Resourcei18n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.javai18n.Resourcei18n" />
+      <module name="spring6-i18n" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring6.javai18n.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.atguigu.spring6.resourceloaderaware.TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.resourceloaderaware.TestDemo" />
+      <module name="spring6-resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring6.resourceloaderaware.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceLoaderDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring6-resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.spring6.resourceloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.spring6.resourceloader" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.resourceloader.ResourceLoaderDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="atguigu-spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="atguigu-spring" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.com.atguigu.spring6.javai18n.Resourcei18n" />
+        <item itemvalue="应用程序.Resourcei18n" />
+        <item itemvalue="JUnit.ResourceLoaderDemo" />
+        <item itemvalue="应用程序.com.atguigu.spring6.resourceloaderaware.TestDemo" />
+        <item itemvalue="应用程序.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HRQ\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="" />
+      <created>1675934977822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675934977822</updated>
+      <workItem from="1675934978730" duration="1569000" />
+      <workItem from="1675936576457" duration="274000" />
+      <workItem from="1675936896777" duration="2879000" />
+      <workItem from="1675993432412" duration="11260000" />
+      <workItem from="1676114324899" duration="262000" />
+      <workItem from="1676114611053" duration="56000" />
+      <workItem from="1676115026811" duration="419000" />
+      <workItem from="1676116059126" duration="174000" />
+      <workItem from="1676208422854" duration="30000" />
+      <workItem from="1677061535959" duration="16448000" />
+      <workItem from="1677145917676" duration="5924000" />
+      <workItem from="1677202213940" duration="3454000" />
+      <workItem from="1677226472636" duration="22906000" />
+      <workItem from="1677489133512" duration="7000" />
+      <workItem from="1677489162351" duration="5516000" />
+      <workItem from="1678183865263" duration="26000" />
+      <workItem from="1678953090156" duration="25000" />
+      <workItem from="1679015381464" duration="1501000" />
+      <workItem from="1679204937509" duration="9588000" />
+      <workItem from="1679236976747" duration="1561000" />
+      <workItem from="1679275477836" duration="22381000" />
+      <workItem from="1679753233241" duration="1252000" />
+      <workItem from="1679755112869" duration="10108000" />
+      <workItem from="1679803151362" duration="15917000" />
+      <workItem from="1679901011871" duration="1024000" />
+      <workItem from="1679902447569" duration="6936000" />
+      <workItem from="1679991074630" duration="8000" />
+      <workItem from="1679991107382" duration="49000" />
+      <workItem from="1679991179305" duration="551000" />
+      <workItem from="1679991786445" duration="462000" />
+      <workItem from="1679992292077" duration="243000" />
+      <workItem from="1679992555592" duration="527000" />
+      <workItem from="1679993117968" duration="66000" />
+      <workItem from="1679993203586" duration="5534000" />
+      <workItem from="1680163564090" duration="1460000" />
+      <workItem from="1680166701520" duration="105000" />
+      <workItem from="1680166823657" duration="572000" />
+      <workItem from="1680167416244" duration="119000" />
+      <workItem from="1680167557547" duration="156000" />
+      <workItem from="1680167744246" duration="173000" />
+      <workItem from="1680167950269" duration="53000" />
+      <workItem from="1680168029320" duration="20000" />
+      <workItem from="1680168064178" duration="132000" />
+      <workItem from="1680168223372" duration="800000" />
+      <workItem from="1680169048091" duration="514000" />
+      <workItem from="1680169603722" duration="163000" />
+      <workItem from="1680169872251" duration="1179000" />
+      <workItem from="1680171076995" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加 修改 删除操作">
+      <created>1679829031414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679829031414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="end transactions">
+      <created>1679992105163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679992105163</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish spring6-resources">
+      <created>1680170605131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680170605131</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java internationalization">
+      <created>1680170661951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680170661951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java internationalization">
+      <created>1680170752476</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680170752476</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="8e38dd55-a075-4a1f-8bc6-971d4ba234bb">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c4eb36bc-5e23-4669-be97-3063d2c47633">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="添加 修改 删除操作" />
+    <MESSAGE value="end transactions" />
+    <MESSAGE value="变更" />
+    <MESSAGE value="finish spring6-resources" />
+    <MESSAGE value="java internationalization" />
+    <option name="LAST_COMMIT_MESSAGE" value="java internationalization" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring6$TestUser.ic" NAME="TestUser 覆盖结果" MODIFIED="1679380263529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.*</FILTER>
+    </SUITE>
+  </component>
+</project>

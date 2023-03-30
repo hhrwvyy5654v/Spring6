@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring 应用程序上下文" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/bean-dilist.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-dimap.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-diref.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-di.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-ditest.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-life.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-diarray.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-jdbc.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-auto.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-scope.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/bean-factorybean.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
