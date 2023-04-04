@@ -8,7 +8,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="java internationalization" />
+    <list default="true" id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="java internationalization">
+      <change afterPath="$PROJECT_DIR$/spring6-validator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/PersonValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/TestPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/ValidationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/TestUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/ValidationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-i18n/src/main/java/com/atguigu/spring6/springi18n/Resourcei18n.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-i18n/src/main/java/com/atguigu/spring6/springi18n/Resourcei18n.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +38,8 @@
       <list>
         <option value="Tag Library Descriptor" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -89,7 +108,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17.0.6",
-    "last_opened_file_path": "D:/Java_Workspace/项目/spring6",
+    "last_opened_file_path": "D:/Java_Workspace/Project/spring6",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -99,9 +118,9 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.22513089",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "settings.sync",
     "settings.editor.splitter.proportion": "0.3337041",
-    "spring.configuration.checksum": "1711853ab8a2d8729075f25c0334dc38",
+    "spring.configuration.checksum": "580862ce95224314155a1e932b77515b",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -124,7 +143,7 @@
       <recent name="com.atguigu.spring6.aop.example" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.com.atguigu.spring6.javai18n.Resourcei18n">
+  <component name="RunManager" selected="应用程序.TestPerson">
     <configuration name="Resourcei18n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.springi18n.Resourcei18n" />
       <module name="spring6-i18n" />
@@ -138,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.prefix.TestDemo" />
-      <module name="spring6-resources" />
+    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring6.validator.one.TestPerson" />
+      <module name="spring6-validator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.spring6.prefix.*" />
+          <option name="PATTERN" value="com.atguigu.spring6.validator.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.com.atguigu.spring6.javai18n.Resourcei18n" />
+        <item itemvalue="应用程序.TestPerson" />
         <item itemvalue="应用程序.Resourcei18n" />
+        <item itemvalue="应用程序.com.atguigu.spring6.javai18n.Resourcei18n" />
         <item itemvalue="JUnit.ResourceLoaderDemo" />
         <item itemvalue="应用程序.com.atguigu.spring6.resourceloaderaware.TestDemo" />
-        <item itemvalue="应用程序.TestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +292,10 @@
       <workItem from="1680169048091" duration="514000" />
       <workItem from="1680169603722" duration="163000" />
       <workItem from="1680169872251" duration="1179000" />
-      <workItem from="1680171076995" duration="21000" />
+      <workItem from="1680171076995" duration="1952000" />
+      <workItem from="1680276043237" duration="38000" />
+      <workItem from="1680276100051" duration="948000" />
+      <workItem from="1680514525349" duration="6645000" />
     </task>
     <task id="LOCAL-00001" summary="添加 修改 删除操作">
       <created>1679829031414</created>
@@ -310,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680170752476</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java internationalization">
+      <created>1680171169551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680171169551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
