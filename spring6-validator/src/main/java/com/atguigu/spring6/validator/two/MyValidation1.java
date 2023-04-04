@@ -17,5 +17,4 @@ public class MyValidation1 {
         Set<ConstraintViolation<User>> validate = validator.validate(user);
         return validate.isEmpty();
     }
-
 }

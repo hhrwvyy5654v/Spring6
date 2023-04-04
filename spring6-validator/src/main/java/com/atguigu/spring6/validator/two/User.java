@@ -1,8 +1,10 @@
 package com.atguigu.spring6.validator.two;
 
-import javax.xml.transform.Source;
+import jakarta.validation.constraints.Max;
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.NotNull;
 
-public class User implements Source {
+public class User {
     @NotNull
     private  String name;
 

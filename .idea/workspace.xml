@@ -5,28 +5,17 @@
     <option name="ANALYZE_INJECTED_CODE" value="false" />
   </component>
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="java internationalization">
-      <change afterPath="$PROJECT_DIR$/spring6-validator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/PersonValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/one/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/ValidationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/ValidationConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="0df7697b-bdeb-4fac-81c4-9c5682829110" name="变更" comment="add validator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring6-i18n/src/main/java/com/atguigu/spring6/springi18n/Resourcei18n.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-i18n/src/main/java/com/atguigu/spring6/springi18n/Resourcei18n.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/four/CannotBlank.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/four/CannotBlank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/three/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/MyValidation2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring6-validator/src/main/java/com/atguigu/spring6/validator/two/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +52,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="b8abd220-8d44-4c65-81f5-774cf24a9515" />
-        <option name="url" value="https://github.com/hhrwvyy5654v/spring6.git" />
+        <option name="url" value="https://github.com/hhrwvyy5654v/spring6" />
       </UrlAndAccount>
     </option>
   </component>
@@ -87,7 +76,8 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="proportion" value="0.40802214" />
+    <option name="selectedTabId" value="ProjectErrors" />
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="2LUoMW0EtDcmsErN1dYO7BA5tbm" />
@@ -114,13 +104,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
+    "project.structure.last.edited": "SDK",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.22513089",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools",
     "settings.editor.splitter.proportion": "0.3337041",
-    "spring.configuration.checksum": "580862ce95224314155a1e932b77515b",
+    "spring.configuration.checksum": "4fcb167b0d31e92083bfe1ef20731cbf",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -296,6 +287,7 @@
       <workItem from="1680276043237" duration="38000" />
       <workItem from="1680276100051" duration="948000" />
       <workItem from="1680514525349" duration="6645000" />
+      <workItem from="1680578007721" duration="5301000" />
     </task>
     <task id="LOCAL-00001" summary="添加 修改 删除操作">
       <created>1679829031414</created>
@@ -339,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680171169551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add validator">
+      <created>1680578974946</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680578974946</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,7 +374,8 @@
     <MESSAGE value="变更" />
     <MESSAGE value="finish spring6-resources" />
     <MESSAGE value="java internationalization" />
-    <option name="LAST_COMMIT_MESSAGE" value="java internationalization" />
+    <MESSAGE value="add validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="add validator" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

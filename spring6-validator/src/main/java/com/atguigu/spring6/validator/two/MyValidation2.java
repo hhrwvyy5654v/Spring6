@@ -21,5 +21,4 @@ public class MyValidation2 {
         System.out.println(allErrors);
         return bindException.hasErrors();
     }
-
 }
